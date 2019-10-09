@@ -62,7 +62,9 @@ soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 ![](/img/3.png)
 
 ## Screenshot hasil
-masukkan screenshot output disini
+![Screen Shot 2019-10-09 at 14 04 42](https://user-images.githubusercontent.com/55730503/66459121-90685600-ea9e-11e9-9912-c25cc20b6239.png)
+![Screen Shot 2019-10-09 at 14 04 09](https://user-images.githubusercontent.com/55730503/66459122-90685600-ea9e-11e9-94da-2929df748cd5.png)
+
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
