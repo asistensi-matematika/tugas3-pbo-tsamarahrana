@@ -1,8 +1,8 @@
 # TUGAS 3 ASISTENSI PBO - Jumat, 4 Oktober 2019
 
-NAMA: `isi nama disini`
+NAMA: Tsamarah Rana Nugraha
 
-NRP: `isi nrp disini`
+NRP: 06111840000103
 
 ## Deskripsi Soal
 Buat class **LinearEquation** untuk sistem persamaan linear 2x2:
@@ -37,12 +37,23 @@ Karena penyebut nya 0, maka tidak memiliki solusi.
 ## Soal
 Input 	: 12 5 13 0 12 7
 
-Output	: ...
-
+Output	: 
+Sistem Persamaan nya : 
+12.0 x 5.0y  = 12.0
+13.0 x 0.0y = 7.0
+Hasilnya : 
+x = 0.54
+y = 1.11
 
 Input 	: -18 9 10,5 11 0 0
 
-Output	: ...
+Output	: 
+Sistem persamaannya :
+-18.0 x 9.0y  = 0.0
+10.5 x 11.0y = 0.0
+Hasilnya : 
+x = -0.00
+y = 0.00
 
 
 ### 1 extra mile
